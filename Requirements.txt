@@ -1,0 +1,12 @@
+numpy
+pandas
+scipy
+matplotlib
+pandas-datareader  # For fetching FRED data
+pandas
+quantlib           # For benchmarking your scratch build
+scikit-learn       # For PCA (the "Machine Learning" part)
+pytest             # For unit testing
+black              # The linter/formatter
+pre-commit         # To manage Git Hooks
+dvc                # Data version control
